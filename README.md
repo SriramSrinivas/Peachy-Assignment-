@@ -15,6 +15,6 @@ Getting Started: Base Code
 
 To help you begin, a scaffolded base code is provided, offering a foundational implementation for the GCN model, graph partitioning, and distributed training setup.
 
--   **`Peachybasecode`**: [Link to Peachybasecode](https://github.com/SriramSrinivas/Peachy-Assignment-/blob/main/Peachybasecode "null")
+-   **`Peachybasecode`**: [Link to Peachybasecode](https://github.com/SriramSrinivas/Peachy-Assignment-/blob/main/Peachybasecode.ipynb "null")
 
 This base code is designed to be extended and modified as per the assignment requirements, allowing you to focus on the core challenges of distributed GCN training and performance analysis.
